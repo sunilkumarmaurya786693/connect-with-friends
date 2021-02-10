@@ -1,0 +1,28 @@
+.loginContainer{
+    margin: 0 auto;
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+}
+.cardContainer{
+    padding: 40px;
+}
+
+.inputText input[type=text]:focus {
+    border-bottom: 1px solid #2196f3 !important;
+}
+.loginButton{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    padding: 9px;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+}
+.changeRoute{
+    text-align: center;
+}
+/* .linkColor{
+    color: black;
+} */

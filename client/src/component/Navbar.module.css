@@ -1,0 +1,23 @@
+.navWrapper {
+    color: black !important;
+    background-color: #fff !important;
+}
+
+.navBody{
+    background: #fff;
+    /* max-width: 930px; */
+}
+.navBody a{
+        color: black !important;
+}
+.instagramHome{
+    font-size: 2em;
+    font-family: 'Grand Hotel', cursive;
+}
+
+/* 
+font-family: 'Grand Hotel', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; 
+*/
